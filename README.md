@@ -1,9 +1,5 @@
 ﻿# Shell-scripting
 
-Here’s a clean, beginner-friendly `README.md` for your **Bash Commands** repository 👇
-
-You can copy-paste it directly into your repo.
-
 ---
 
 ````markdown
@@ -175,3 +171,4 @@ This repository is licensed under the **MIT License** — free to use, modify, a
 
 Would you like me to make this `README.md` more **aesthetic** (with emojis, colors, and markdown badges like “Built with Bash 🖥️”)?
 ```
+

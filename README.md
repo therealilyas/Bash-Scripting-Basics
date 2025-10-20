@@ -5,7 +5,7 @@
 ````markdown
 # 🐚 Bash Commands & Scripts
 
-Welcome to the **Bash Commands Repository** — a collection of useful **Bash scripts** and command examples to help you learn and automate tasks in the Linux shell.
+Welcome to the **Bash Scripting Basics** — a collection of useful **Bash scripts** and command examples to help you learn and automate tasks in the Linux shell.
 
 ---
 
@@ -14,8 +14,8 @@ Welcome to the **Bash Commands Repository** — a collection of useful **Bash sc
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/<your-username>/bash-commands.git
-cd bash-commands
+git clone https://github.com/theralilyas/https://github.com/therealilyas/Bash-Scripting-Basics.git
+cd Bash-Scripting-Basics
 ````
 
 ---
@@ -171,5 +171,6 @@ This repository is licensed under the **MIT License** — free to use, modify, a
 
 Would you like me to make this `README.md` more **aesthetic** (with emojis, colors, and markdown badges like “Built with Bash 🖥️”)?
 ```
+
 
 

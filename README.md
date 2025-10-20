@@ -1,4 +1,4 @@
-﻿# Shell-scripting
+﻿# Bash Scripting Basics
 
 ---
 
@@ -171,4 +171,5 @@ This repository is licensed under the **MIT License** — free to use, modify, a
 
 Would you like me to make this `README.md` more **aesthetic** (with emojis, colors, and markdown badges like “Built with Bash 🖥️”)?
 ```
+
 
